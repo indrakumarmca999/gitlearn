@@ -4,4 +4,20 @@ Devops:
 GITHUB - 1st day learning
 
 2nd day learning 
+
 3rd day learning
+
+4th day learning
+commands:
+
+git init
+git status
+git status -s
+git add file
+git branch
+git commit -m 'First commit'
+git log --oneline
+git remote add origin
+git remote -v
+git push -u origin master
+git restore --staged file
